@@ -1,3 +1,9 @@
+# Fontes
+
+- [Does this button work?](https://foundation.mozilla.org/en/youtube/user-controls/)
+- [Does this button work? Full report](https://foundation.mozilla.org/en/research/library/user-controls/report/)
+- [Regrets reporter](https://foundation.mozilla.org/en/youtube/regretsreporter/)
+- [Mozilla Investigation: YouTube’s Dislike Button, Other User Controls Largely Fail to Stop Unwanted Recommendations](https://foundation.mozilla.org/en/blog/mozilla-investigation-youtubes-dislike-button-other-user-controls-largely-fail-to-stop-unwanted-recommendations/)
 # Introdução
 YouTube é o segundo site mais visitado do mundo e seu algoritmo é responsável por direcionar mais da metade das views dentro do site.
 
