@@ -72,7 +72,7 @@ Foi realizada coleta de dados dos dois grupos com o objetivo de entender se uma 
 - Vídeo recomendado
 **Recomendação ruim**: vídeo recomendado similar ao vídeo rejeitado, o slide é um exemplo de par de vídeo que caracteriza uma recomendação ruim
 
-## Coleta:
+## Coleta
 
 - Tempo
 - Total de participantes
@@ -89,7 +89,7 @@ Dados de acurácia e treinamento do modelo estão disponíveis de forma detalhad
 
 ## Interpretação
 
-### Taxa de recomendações ruins:
+### Taxa de recomendações ruins
 
 ![[Pasted image 20231211214612.png]]
 
@@ -101,14 +101,14 @@ Foi descoberto que o tipo de feedback mais eficiente não previne mais de 50% de
 ### Taxa de feedback
 
 A quantidade de feedbacks realizados pelo usuário dobrou com a UX facilitada em comparação a UX atual
-## Vantagens e Desafios do Estudo:
+## Vantagens e Desafios do Estudo
 
-### Vantagens:
+### Vantagens
 
 - Amostra Representativa: A extensão da Mozilla permitiu a participação de usuários reais, oferecendo uma amostra representativa, e que os usuário possuem interesse em participar do experimento, pois se beneficiarão.
 - Coleta de Dados Detalhada: Dados extensos sobre interações, recomendações e classificações foram coletados, proporcionando uma visão abrangente e detalhada.
 
-### Desafios/Desvantagens:
+### Desafios/Desvantagens
 
 - Limitações da API do YouTube: Restrições e limites na API do YouTube dificultaram a coleta completa de dados, destacando a necessidade de melhorias na transparência e acesso a dados.
 - Classificação Subjetiva: A classificação de vídeos como "aceitáveis" ou "ruins" pode ser subjetiva, introduzindo um potencial viés na análise.
