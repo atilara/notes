@@ -5,4 +5,4 @@
 	- Dados de palestras baseado em documentos
 	- Conexões entre palestrantes, público baseado em grafos
 - Aplicação de consumo de dados do valorant
-	- Conexão entre duos, baseado em grafo
+	- Conexão entre duos, baseado em grafo.
