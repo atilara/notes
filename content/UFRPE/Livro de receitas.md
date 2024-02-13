@@ -45,27 +45,4 @@ O mongo precisará gerar um .csv com os dados da receita:
 Um depende do outro no contexto da aplicação, seus dados são diretamente ligados e a responsabilidade de popular o neo4j com base nos dados armazenados no mongo seria da aplicação.
 # Dataset
 
-(**[Food.com](http://Food.com) Recipes with Ingredients and Tags**)
-
-**Basic Information:**
-
-- `id`: Unique identifier for each recipe.
-- `name`: The title of the recipe.
-- `description`: A brief overview of the recipe.
-
-**Detailed Recipe Breakdown:**
-
-- `steps`: Step-by-step cooking instructions.
-
-**Ingredient Insights:**
-
-- `ingredients_raw`: Original list of ingredients as written in the recipe.
-- `ingredients`: Cleaned and processed list of ingredients.
-
-**Additional Details:**
-
-- `servings`: Suggested number of servings.
-- `serving_size`: The amount per serving.
-- `tags`: Keywords associated with the recipe (e.g., vegan, quick, summer).
-
-[https://www.kaggle.com/datasets/realalexanderwei/food-com-recipes-with-ingredients-and-tags](https://www.kaggle.com/datasets/realalexanderwei/food-com-recipes-with-ingredients-and-tags)
+*[https://www.kaggle.com/datasets/sooryaprakash12/cleaned-indian-recipes-dataset](https://www.kaggle.com/datasets/sooryaprakash12/cleaned-indian-recipes-dataset)*
