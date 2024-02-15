@@ -58,6 +58,10 @@ Um depende do outro no contexto da aplicação, seus dados são diretamente liga
 - [ ] Slide
 - [ ] Atualizar os ingredientes únicos do mongo
 - [ ] Atualizar o nome dos campos do csv
+- [ ] Adicionar campos gerados aleatoriamente no MongoDB
+	- [ ] Custo da receita (R$)
+	- [ ] Calorias
+	- [ ] Dificuldade
 - [ ] Queries
 	- [ ] MongoDB e perguntas
 	- [ ] Neo4J e perguntas
