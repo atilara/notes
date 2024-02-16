@@ -1,4 +1,4 @@
-## MySQL: Mario
+## MySQL
 
 - **Usuário**
     - uuid
@@ -8,7 +8,7 @@
 	- favoritas: tabela a parte de relação, usuário/receita
 - **Logs (ao fazer uma pesquisa salvaria um log, ex: {userId, searchType: recipe/ingredient, value: text recipe/array ingredients})**
     - ultimas buscas (a definir) (pode ser uma tabela/collection a parte)
-## MongoDB: Átila
+## MongoDB
 
 - **Receita**
     - uuid
@@ -23,7 +23,7 @@
 - **Ingredientes únicos**
     - id
     - name
-## Neo4j: João
+## Neo4j
 
 - **Pesquisa por receitas a partir de ingredientes**
     - Receitas que possuem os ingredientes/Receitas que possuem apenas os ingredientes
@@ -54,16 +54,18 @@ Um depende do outro no contexto da aplicação, seus dados são diretamente liga
 	- [x] Mongo
 	- [x] Neo4j
 	- [x] MariaDB
-- [ ] Desenhar modelagem
-- [ ] Slide
-- [ ] Atualizar os ingredientes únicos do mongo
-- [ ] Atualizar o nome dos campos do csv
+- [ ] Slide:
+	- [ ] Modelagem e queries do Neo4J: `Átila`
+	- [ ] Modelagem e queries do MongoDB: `Luan`
+- [ ] Atualizar os ingredientes únicos do mongo: `Átila`
+- [ ] Atualizar o nome dos campos do csv: `João`
 - [ ] Adicionar campos gerados aleatoriamente no MongoDB
 	- [ ] Custo da receita (R$)
 	- [ ] Calorias
 	- [ ] Dificuldade
-- [ ] Queries
-	- [ ] MongoDB e perguntas
-	- [ ] Neo4J e perguntas
+- [ ] Queries: 
+	- [ ] MongoDB e perguntas: `Mario`
+	- [ ] Neo4J e perguntasL
 	- [x] MariaDB e perguntas
-- [ ] Garantir consistência entre IDs dos diferentes bancos
+- [ ] Garantir consistência entre IDs dos diferentes bancos: `João`
+	- [ ] MariaDB: `Mario`
