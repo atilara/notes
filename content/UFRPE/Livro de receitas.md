@@ -46,26 +46,3 @@ Um depende do outro no contexto da aplicação, seus dados são diretamente liga
 # Dataset
 
 *[https://www.kaggle.com/datasets/sooryaprakash12/cleaned-indian-recipes-dataset](https://www.kaggle.com/datasets/sooryaprakash12/cleaned-indian-recipes-dataset)*
-##### To do
-
-- [x] Modelagem
-- [x] Scripts de inserção dos dados
-- [x] Imagens docker
-	- [x] Mongo
-	- [x] Neo4j
-	- [x] MariaDB
-- [ ] Slide:
-	- [ ] Modelagem e queries do Neo4J: `Átila`
-	- [ ] Modelagem e queries do MongoDB: `Luan`
-- [ ] Atualizar os ingredientes únicos do mongo: `Átila`
-- [ ] Atualizar o nome dos campos do csv: `João`
-- [ ] Adicionar campos gerados aleatoriamente no MongoDB
-	- [ ] Custo da receita (R$)
-	- [ ] Calorias
-	- [ ] Dificuldade
-- [ ] Queries: 
-	- [ ] MongoDB e perguntas: `Mario`
-	- [ ] Neo4J e perguntasL
-	- [x] MariaDB e perguntas
-- [ ] Garantir consistência entre IDs dos diferentes bancos: `João`
-	- [ ] MariaDB: `Mario`
