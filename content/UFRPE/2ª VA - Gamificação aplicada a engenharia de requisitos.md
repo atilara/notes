@@ -37,6 +37,6 @@ Citar a revisão da literatura existente e explicar abordagem de artigos dispon�
 ## Trabalho base
 
 > [!NOTE] Importante
-> [[Gamification_in_Requirements_Engineering_A_Systematic_Review.pdf]]
+> [Gamification in Requirements Engineering: A Systematic Review](https://ieeexplore.ieee.org/document/8590178)
 
 A proposta é estender o trabalho e atualizá-lo que se encontra datado já que foi publicado em 2018
