@@ -66,7 +66,7 @@ Desenvolvido por um time de mais de 100 pessoas utilizando Unreal Engine 3, o jo
 
 ### Fontes
 
-[Unreal Engine Blog](https://www.unrealengine.com/fr/blog/batman-arkham-city)
-[Arkham City Wiki](https://arkhamcity.fandom.com/wiki/Batman:_Arkham_City)
-[The Early Development of Batman: Arkham City - Improving The Formula por WarpingFist!](https://www.youtube.com/watch?v=RSii1H9IiQ0)
-[How long to beat - Batman: Arkham City](https://howlongtobeat.com/game/882)
+- [Unreal Engine Blog](https://www.unrealengine.com/fr/blog/batman-arkham-city)
+- [Arkham City Wiki](https://arkhamcity.fandom.com/wiki/Batman:_Arkham_City)
+- [The Early Development of Batman: Arkham City - Improving The Formula por WarpingFist!](https://www.youtube.com/watch?v=RSii1H9IiQ0)
+- [How long to beat - Batman: Arkham City](https://howlongtobeat.com/game/882)
