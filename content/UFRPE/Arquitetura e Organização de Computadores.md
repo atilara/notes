@@ -1,0 +1,5 @@
+---
+tags:
+  - wrapper
+---
+- [[Memória Cache]]
