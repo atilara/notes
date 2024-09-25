@@ -37,48 +37,48 @@ tipo i: instruções imediatas com valores constantes, addi, subi
 ### Questões
 ##### `AND Rd, Rs, Rt`
 
-ALUControl: `0000`
-RegDst: `01`
-Branch: `00`
-MemRead: `00`
-MemtoReg: `00`
-ALUOp: `10`
-MemWrite: `00`
-ALUSrc: `00`
-RegWrite: `01`
+- ALUControl: `0000`
+- RegDst: `01`
+- Branch: `00`
+- MemRead: `00`
+- MemtoReg: `00`
+- ALUOp: `10`
+- MemWrite: `00`
+- ALUSrc: `00`
+- RegWrite: `01`
 
 ##### `Beq Rd, Rs, adress`
 
-ALUControl: `0110`
-RegDst: `00` ou X
-Branch: `01`
-MemRead: `00`
-MemtoReg: `00` ou X
-ALUOp: `01`
-MemWrite: `00`
-ALUSrc: `00`
-RegWrite: `01`
+- ALUControl: `0110`
+- RegDst: `00` ou X
+- Branch: `01`
+- MemRead: `00`
+- MemtoReg: `00` ou X
+- ALUOp: `01`
+- MemWrite: `00`
+- ALUSrc: `00`
+- RegWrite: `01`
 
 ##### `Addi Rs, Rt, i`
 
-ALUControl: `0001`
-RegDst: `00`
-Branch: `00`
-MemRead: `00`
-MemtoReg: `00`
-ALUOp: `10`
-MemWrite: `00`
-ALUSrc: `01`
-RegWrite: `01`
+- ALUControl: `0001`
+- RegDst: `00`
+- Branch: `00`
+- MemRead: `00`
+- MemtoReg: `00`
+- ALUOp: `10`
+- MemWrite: `00`
+- ALUSrc: `01`
+- RegWrite: `01`
 
 ##### `Lw Rd, n(Rs)(2.0)`
 
-ALUControl: `0010`
-RegDst: `00`
-Branch: `00`
-MemRead: `01`
-MemtoReg: `01`
-ALUOp: `00`
-MemWrite: `00`
-ALUSrc: `01`
-RegWrite: `01`
+- ALUControl: `0010`
+- RegDst: `00`
+- Branch: `00`
+- MemRead: `01`
+- MemtoReg: `01`
+- ALUOp: `00`
+- MemWrite: `00`
+- ALUSrc: `01`
+- RegWrite: `01`
