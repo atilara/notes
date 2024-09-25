@@ -71,7 +71,7 @@ tipo i: instruções imediatas com valores constantes, addi, subi
 - ALUSrc: `01`
 - RegWrite: `01`
 
-##### `Lw Rd, n(Rs)
+##### `Lw Rd, n(Rs)`
 
 - ALUControl: `0010`
 - RegDst: `00`
