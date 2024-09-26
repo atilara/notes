@@ -57,7 +57,7 @@ tipo i: instruções imediatas com valores constantes, addi, subi
 - ALUOp: `01`
 - MemWrite: `00`
 - ALUSrc: `00`
-- RegWrite: `01`
+- RegWrite: `00`
 
 ##### `Addi Rs, Rt, i`
 
