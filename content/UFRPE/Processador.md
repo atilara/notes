@@ -24,9 +24,9 @@
 * `sw`, única instrução que escreve na memória de dados para salvar o dado de um registrador na memória, `01`
 * todo o resto, `00`
 
-**ALUSrc**: 
+**ALUSrc**: se o segundo parâmetro  da instrução é imediato ou de registrador
 - tipo r, ALUSrc vem do registrador, tendo valor `00`
-- tipo i, ALUSrc vem do extensor de bits, valor `01`
+- tipo i, `beq`, ALUSrc vem do extensor de bits, valor `01`
 
 **RegWrite**: determina se o banco de registradores pode ser escrito ou não
 * `sw` + `beq` não escrevem no banco de registradores, `00`
