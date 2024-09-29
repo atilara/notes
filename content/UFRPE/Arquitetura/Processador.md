@@ -25,7 +25,7 @@
 * todo o resto, `00`
 
 **ALUSrc**: se o segundo parâmetro da instrução é imediato ou de registrador
-- tipo i, ALUSrc vem do extensor de bits, valor `01`
+- `lw`, `sw`, tipo i, ALUSrc vem do extensor de bits, valor `01`
 - tipo r, `beq`, ALUSrc vem do registrador, tendo valor `00`
 
 **RegWrite**: determina se o banco de registradores pode ser escrito ou não

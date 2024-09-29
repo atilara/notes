@@ -112,7 +112,6 @@ A quantidade de feedbacks realizados pelo usuário dobrou com a UX facilitada em
 
 - Limitações da API do YouTube: Restrições e limites na API do YouTube dificultaram a coleta completa de dados, destacando a necessidade de melhorias na transparência e acesso a dados.
 - Classificação Subjetiva: A classificação de vídeos como "aceitáveis" ou "ruins" pode ser subjetiva, introduzindo um potencial viés na análise.
-
 ## Recomendações
 
 >Os controles de usuário do YouTube devem ser fáceis de entender e acessar.
