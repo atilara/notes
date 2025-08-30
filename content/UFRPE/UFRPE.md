@@ -3,6 +3,9 @@ tags:
   - wrapper
 draft: false
 ---
+### 2025.1
+
+- [[Física Aplicada a Computação]]
 ### 2024.1
 
 - [[Jogos Digitais]]
@@ -13,3 +16,7 @@ draft: false
 - [[Engenharia de Software Experimental]]
 - [[Teste de Software]]
 - [[Banco de dados não convencionais]]
+
+### 2025.2
+
+- [[PCC]]
