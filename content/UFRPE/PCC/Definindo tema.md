@@ -35,9 +35,29 @@ Trabalho conclui que as empresas não tem respeito por praticar o que é melhor 
 - Com base nas diretrizes, foram criados os requisitos
 
 ###### Pontos importantes
-Teste
+Metodologia envolveu RSL para criação dos requisitos funcionais e não funcionais
+
+Os dados coletados da plataforma foram baseados no uso, outros artigos, documentação das plataformas.
+
+A lista de requisitos funcionais construídos no artigo foram categorizados em:
+- *Children’s Safety*
+- *Platform-Parent-Child’s Dialogue*
+- *Restriction and monitoring*
+- *Parent-Child Privacy*
+
+A lista de requisitos não funcionais foram categorizados em:
+- *Ethical*
+- *Operational*
+- *Security*
+- *Usability*
+
+Além disso, outras contribuições do artigo para literatura foram os estudos de caso do *Instagram* e *TikTok* que concluíram que eles cumprem a maioria dos requisitos de forma pacial, e não cumprem outros.
+
+###### Trabalhos futuros:
+- Analisar literatura cinza, documentos governamentais, portais de notícias de TI, especialistas
+- Discutir os resultados com representantes das duas empresas
+
 ### Possíveis temas
-Ideias que eu tive de pesquisa antes de definir meu rumo (Descartei pq era mt longe da minha expertise):
-- Definir diretrizes para métodos de verificação de idade (assegurar que a criança tenha mesmo aquela idade)
+- Definir diretrizes para métodos de verificação de idade, assegurar que a criança tenha mesmo aquela idade
 - Definir uma solução de verificação de idade constante e funcional
 - Melhorar os mecanismos de identificação de pessoas (elas serem quem dizem ser), isso pode ajudar com contas falsas, etc
