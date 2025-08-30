@@ -1,0 +1,28 @@
+- Introdução ao MongoDB (Acciolyinho)
+	- Orientado a documentos
+	- Onde é usado na indústria
+	- Modelagem
+		- Vantagens
+		- Desvantagens
+		- Como estruturar
+		- Tipos de modelagem
+	- Como utilizar
+		- Atlas
+		- Compass
+		- 3T
+- [Comandos](https://www.youtube.com/watch?v=c2M-rlkkT5o) (MarioUCH + MesaDePingPong)
+	- DBs
+	- insert
+	- data types
+	- sorting and limiting
+	- find
+	- update
+	- delete
+	- comparison operators
+	- logical operators
+	- indexes
+	- collections
+- Playground (Trieste + Acciolyinho)
+	- Elaborar documento
+	- Elaborar desafios
+	- Mostrar resposta

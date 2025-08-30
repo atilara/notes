@@ -1,0 +1,71 @@
+- Literatura
+	- Formal
+	- Cinza
+		- Blogs de pesquisadores
+		- Relatórios do governo
+		- Notícia
+		- GitHub
+		- Fóruns sobre tecnologias, ferramentas
+		- Ligação com N(Etnografia)
+		- Útil para indústria
+- Serve pra ninguém se perder quando ler o restante do artigo
+- Novas formas de interpretar pesquisas anteriores
+	- GPT foi um grande avanço na área de IA porque a literatura foi até aqui
+	- Entender o problema com base em quem já pesquisou sobre
+- **Não é um simples resumo**
+- Estudo primário
+	- Publicação de artigos
+- Revisões (secundário)
+	- Estudo sobre estudos
+	- Analiso quem analisou algo
+- Conclusões
+- Elaboração
+	- Definir tema / problema
+	- Buscar trabalhos
+	- Avaliar trabalhos
+		- Importante para atestar a qualidade do artigo
+	- Analisar e interpretar
+- Tipos
+	- Revisão sistemática
+		- Examina a área ao longo de um período de tempo
+		- Mostra familiaridade com a literatura
+		- Até 2020, IA de texto generativa era limitado a [...], em 2022, com lançamento do GPT...
+	- Teórica
+		- Em cima de conceitos
+		- Explica palavras-chave
+	- Argumentativa
+- Conteúdo
+	- Evidências
+		- Citações devem demonstrar que estamos certos
+	- Seletivo
+	- Citações com moderação
+	- Resumir e recaptular ideias
+	- Tenha seus argumentos no meio dos anteriores
+	- Tenha cuidado ao parafrasear
+		- Você pode enxergar algo que a pessoa não disse
+		- Fugir muito do que o que você citou
+- Formas de citar
+	- Trecho sem alteração
+		- Estrofe de poesia, música
+		- Teorema
+		- Destaque grande pra pessoa
+	- Trecho quase sem alterações
+		- Destaque pra pessoa
+	- Com uma quantidade grande do seu argumento
+		- Citação no final
+	- ABNT2
+- Trabalhos relacionados
+	- Analisou mesmo ambiente
+	- Método parecido
+	- Mesmo problema
+	- Mesmo público
+	- Falar o que é positivo e negativo, o negativo deve ser onde o nosso trabalho se insere
+- Orientações finais
+	- Entenda o tema
+	- Ache modelos
+	- Fontes relevantes
+- Erros comuns
+	- Não dedicar tempo suficiente
+	- Não ter sua própria visão do tema
+- Writing in the sciences, Stanford
+- [[Métodos para produzir sínteses da literatura]]

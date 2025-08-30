@@ -1,0 +1,9 @@
+- Palestra de George Valença sobre [Ética em UX e Padrões de Design Manipulativo](https://www.youtube.com/watch?v=FIkByBFszsM)
+	- [Deceptive Patterns](https://www.deceptive.design/)
+	- [Design Justice](https://mitpress.mit.edu/9780262043458/design-justice/), Sasha
+	- [PL 2630](https://www.camara.leg.br/propostas-legislativas/2256735)
+- [ACM](https://dl.acm.org/), biblioteca digital que organiza temas de pesquisa
+- [Programa de Pós-Graduação em Informática Aplicada](https://ww2.ppgia.ufrpe.br/) na UFRPE
+	- [Processo seletivo de mestrado em 2024.1](https://ww2.ppgia.ufrpe.br/pt-br/node/229)
+- [Programa de Pós-Graduação do CIn](https://portal.cin.ufpe.br/pos-graduacao/)
+	- [Mestrado profissional](https://secposprof.cin.ufpe.br/mestrado-profissinal)

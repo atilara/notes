@@ -1,0 +1,53 @@
+- {{video https://youtu.be/phrzW4VXjFo?si=EKE7o1KFGd4UYwf1}}
+- Porque utilizaríamos MongoDB e Neo4j juntos?
+- MongoDB
+	- Utiliza JSON, baseado em documentos
+	- Modelo de dados flexível
+- Neo4j
+	- Baseado em grafos, possui nós e relacionamentos
+	- *Native graph processing*
+		- Percorre o grafo de maneira muito eficiente
+	- Utiliza `cypher` como linguagem para construção de queries
+	- *Property Graph Model Components*
+		- Nós
+			- Possuem atributos com chave-valor
+			- Nós possuem nomes, chamados de *labels*
+		- Relacionamentos
+			- Liga os nós com tipo (semelhante aos labels) e direção
+			- Pode possuir propriedades com chave-valor
+		- ![image.png](image_1697678991775_0.png)
+	- Casos de uso do neo4j
+		- Recomendações em tempo real
+		- Gerenciamento central de dados, armazenamento meta-dados de sistemas diferentes
+		- Detecção de fraudes em cartão
+		- Busca em grafo
+		- Gerenciamento de acesso e identidade
+	- NoSQL
+		- Mais flexível, não precisa ser totalmente pré-estruturado
+		- Mais contextual
+		- Queries em tempo real
+- Nossa ideia de [[Projeto da 2VA]] pode seguir essa estrutura:
+  ![image.png](image_1697679615867_0.png)
+	- No contexto do projeto de eventos:
+		- catálogo de eventos: mongoDB
+		- neo4j: recomendações de eventos, grafos sociais
+- Desafios encontrados na persistência poliglota
+	- Sincronizar dados
+	  ![image.png](image_1697680006739_0.png)
+		- Migrar todos os dados
+		- Migrar o que é grafo para neo4j, o que não é grafo para BD relacional/MongoDB
+		- Duplicar uma parte dos dados, apenas o que é grafo
+		- *APOC Procedures*
+			- Awesome procedures on Cypher
+			- Usados para manter o *sync* entre as bases de dados
+			- Biblioteca com mais de 200 procedimentos que podem ser utilizados no sync
+			- Pode utilizar a comunicação via *REST* com MongoDB para fazer sync, exemplo mostrado na aula
+		- *Neo4j Doc Manager*
+			- Faz o sync automático
+			- Transforma documentos em grafos
+			- Feita em python
+			- mongoDB -> neo4j doc manager -> neo4j
+	- Operações
+		- Deploy
+			- Imagem docker do neo4j
+			- docker compose
