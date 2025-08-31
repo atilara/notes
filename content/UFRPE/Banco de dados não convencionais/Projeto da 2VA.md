@@ -1,7 +1,0 @@
-- Visão geral dos dados, como serão consumidos e persistidos
-	- Que tipo de consulta vai ser feita
-	- Popular com dados de exemplo
-	- Fazer isso com cada uma das bases
-	- Ao menos duas bases precisam ser NoSQL
-	- Fazer uma ilustração com a demonstração dessas camadas, slide de arquitetura big data
-- [[Livro de receitas]]

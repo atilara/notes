@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "4d269a6925693300",
+    "type": "split",
+    "children": [
+      {
+        "id": "b81f7f82a6ce7336",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72d3d1b79d0faf53",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61d68b15dad11d48",
+    "type": "split",
+    "children": [
+      {
+        "id": "62b7d7c0e61570a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02ef806d749a3fb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c0c32e888921c4dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "35e25e71ab75fbce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "17370ba511fbef4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa343a93f8e61858",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b805b7cf376c0e95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UFRPE/Física Aplicada a Computação/Lista 03.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lista 03"
+            }
+          },
+          {
+            "id": "a4d28dcbbf97e0ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UFRPE/Física Aplicada a Computação/Lista 03.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lista 03"
+            }
+          },
+          {
+            "id": "0b5c4c41cc70b681",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9dfb38506dd236df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UFRPE/Física Aplicada a Computação/Lista 03.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lista 03"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "72d3d1b79d0faf53",
+  "lastOpenFiles": [
+    "UFRPE/PCC/Definindo tema.md",
+    "UFRPE/PCC/PCC.md",
+    "UFRPE/PCC/Definindo tema(1).md",
+    "UFRPE/UFRPE.md",
+    "UFRPE/Engenharia de software experimental/Métodos para produzir sínteses da literatura.md",
+    "UFRPE/Engenharia de software experimental/Conduzir a SLR.md",
+    "UFRPE/Engenharia de software experimental/1ª VA - Does this button work.md",
+    "UFRPE/Física Aplicada a Computação/Física Aplicada a Computação.md",
+    "UFRPE/Física Aplicada a Computação/Lista 03.md",
+    "UFRPE/Engenharia de software experimental/Revisão bibliográfica da literatura.md",
+    "UFRPE/Engenharia de software experimental/Engenharia de Software Experimental.md",
+    "UFRPE/Engenharia de software experimental/2ª VA - Gamificação aplicada a engenharia de requisitos.md",
+    "UFRPE/Arquitetura/Arquitetura e Organização de Computadores.md",
+    "UFRPE/Jogos/Jogos Digitais.md",
+    "UFRPE/PCC",
+    "Untitled.base",
+    "index.md",
+    "UFRPE/Untitled.md",
+    "UFRPE/Física Aplicada a Computação/Untitled",
+    "UFRPE/Física Aplicada a Computação",
+    "UFRPE/Arquitetura/Pipeling.md",
+    "UFRPE/Arquitetura/Mapeamento.md",
+    "UFRPE/Arquitetura/Memória Cache.md",
+    "UFRPE/Arquitetura/assets/Pasted image 20240929193606.png",
+    "UFRPE/Arquitetura/assets",
+    "Untitled.canvas",
+    "assets/Pasted image 20240916204736.png",
+    "assets/Pasted image 20240916103410.png",
+    "assets/Pasted image 20240916103204.png",
+    "assets/Pasted image 20240916101851.png",
+    "assets/Pasted image 20240915232119.png",
+    "assets/Pasted image 20240404201043.png",
+    "assets/Pasted image 20231216144854.png",
+    "assets/Pasted image 20231216144849.png",
+    "assets/Pasted image 20231216144728.png",
+    "UFRPE/Engenharia de software experimental/assets",
+    "UFRPE/Testes/JUnit.md",
+    "UFRPE/Jogos",
+    "UFRPE/Jogos/Pesquisa - Batman Arkham City.md",
+    "UFRPE/Banco de dados não convencionais/Banco de dados não convencionais.md",
+    "UFRPE/Banco de dados não convencionais/Oficina de MongoDB.md",
+    "UFRPE/Banco de dados não convencionais/Projeto da 2VA.md",
+    "UFRPE/Banco de dados não convencionais/Livro de receitas.md",
+    "UFRPE/Banco de dados não convencionais/Persistência poliglota com MongoDB e Neo4j.md",
+    "UFRPE/Banco de dados não convencionais",
+    "UFRPE/Engenharia de software experimental",
+    "UFRPE/Testes",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Teste do canvas.canvas"
+  ]
+}
