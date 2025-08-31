@@ -1,0 +1,25 @@
+- Busca de artigos
+	- Sinônimos são importantes para gerar string de busca
+	- Busca automática
+		- IEEE Xplore
+		- ACM
+		- Scopus
+		- Science Direct
+		- Wiley Interscience
+		- JSTOR
+	- Busca manual
+		- Complementar a busca
+		- Literatura cinza
+		- Citation chaining
+			- Dentre seus artigos, pesquisar sobre os artigos que os citam
+			- Dentre seus artigos, pesquisar sobre quais artigos são citados por ele
+- Selecionar estudos primários
+	- Título
+	- Resumo
+	- Introdução e conclusão
+	- Criar tabelas com detalhes, quais tabalhos foram removidos, quais foram mapeados
+	- Diagrama de fluxo
+	- Analisar qualidade das pesquisas
+- Avaliar qualidade dos estudos primários
+- Extração de dados
+- Síntese de dados
