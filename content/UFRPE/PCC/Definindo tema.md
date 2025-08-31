@@ -13,7 +13,7 @@ Ao longo do trabalho, são apresentados os *Legal Requirements* (LRs), agrupados
 - *Security and Privacy*
 - *Data management*
 
-Utiliza taxonomia de Harry Brignull para avaliar quais padrões de design manipulativo são aplicados pelas empresas de TI em cada requisito legal, demonstra isso numa tabela.
+Utiliza taxonomia de *Harry Brignull* para avaliar quais padrões de design manipulativo são aplicados pelas empresas de TI em cada requisito legal, demonstra isso numa tabela.
 
 Aborda quais mudanças precisam ser feitas nas aplicações para que cada categoria dos requisitos passem a ser respeitadas.
 
