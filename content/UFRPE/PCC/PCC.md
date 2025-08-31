@@ -1,5 +1,0 @@
----
-tags:
-  - wrapper
----
-[[Definindo tema]]
