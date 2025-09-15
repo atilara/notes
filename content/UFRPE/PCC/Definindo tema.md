@@ -71,3 +71,15 @@ Além disso, outras contribuições do artigo para literatura foram os estudos d
 - O objetivo seria levantar quais requisitos os professores teriam para que a aplicação seja adequada para uso
 - Metodologia poderia envolver entrevistas, etc.
 - Possível overlap que impossibilitaria esse artigo: *Ethical Design for Edtechs Platforms – an Analysis of Google Classroom via a Code of Design Practices* de Steffano
+
+###### Auditoria dos Mecanismos de Verificação Etária para a Proteção de Crianças em Plataformas Digitais
+
+- Revisão do tema
+	- Revisão sistemática da literatura
+	- Analisar documentos de órgãos reguladores, leis, notícias
+- Construção de requisitos que definam uma ferramenta de verificação de idade adequada
+	- Funcionais
+	- Não funcionais
+- Levantar tópicos como privacidade, usabilidade, segurança, transparência
+- Possível estudo de caso em alguma plataforma. *TikTok*, *Roblox*, *Discord*, etc
+- Conclusão com análise sobre o estado atual do processo de verificação etária
